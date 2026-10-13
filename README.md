@@ -123,7 +123,7 @@ KPI Calculation
 Basic DAX-style measures
 
 ## 📸 Dashboard Preview
-![Independence Day Participation Analysis Dashboard](dashboard.png)
+![Independence Day Participation Analysis Dashboard](Dashboard.png)
 
 📁 **Project Structure**
 independence-day-analysis/
