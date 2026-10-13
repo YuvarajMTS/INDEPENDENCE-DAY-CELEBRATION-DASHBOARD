@@ -126,7 +126,7 @@ Basic DAX-style measures
 **Main Dashboard**
 ![Independence Day Participation Analysis Dashboard](Dashboard.png)
 **Pivot Sheet**
-![Independence Day Participation Analysis Dashboard](Pivot Sheet.png)
+![Independence Day Participation Analysis Dashboard](PivotSheet.png)
 
 📁 **Project Structure**
 independence-day-analysis/
