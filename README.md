@@ -122,3 +122,5 @@ Data Aggregation
 KPI Calculation
 Basic DAX-style measures
 
+## 📸 Dashboard Preview
+![Independence Day Participation Analysis Dashboard](screenshots/dashboard-preview.png)
